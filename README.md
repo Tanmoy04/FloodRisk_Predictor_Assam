@@ -1,5 +1,5 @@
 ﻿# FloodRisk_Predictor_Assam
-This model predicts risk of in Assam based on historical rainfall data using classification machine learning.
+"This model predicts flood risk in Assam using classification-based machine learning on historical rainfall data."
 
 # What this project is about
 I used rainfall data from 1901 to 2017.
